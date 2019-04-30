@@ -1,2 +1,3 @@
-def display_board(array)
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+display_board(board)
 end
