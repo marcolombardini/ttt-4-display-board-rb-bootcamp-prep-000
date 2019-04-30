@@ -7,6 +7,7 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
+def display_board(x)
 puts "   |   |   "
 puts "-----------"
 puts "   | X |   "
