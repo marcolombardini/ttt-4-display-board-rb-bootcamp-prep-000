@@ -6,11 +6,5 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
-end
-def display_board(x)
-puts "   |   |   "
-puts "-----------"
-puts "   | X |   "
-puts "-----------"
-puts "   |   |   "
+puts "X#{board[4]}"
 end
