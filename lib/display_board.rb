@@ -6,7 +6,7 @@ puts "-----------"
 puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
-
+end
 puts "   |   |   "
 puts "-----------"
 puts "   | X |   "
